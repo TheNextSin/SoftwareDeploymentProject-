@@ -1,0 +1,5 @@
+To start this program
+•	Start XAMPP control panel from windows files
+•	Start Apache and MySQL from XAMPP control panel
+•	Open Movie Search folder
+•	double click on Movie Search
